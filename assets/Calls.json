@@ -1,0 +1,72 @@
+[
+		{
+			"name": "Melodie",
+			"profile": "https://images.unsplash.com/photo-1518577915332-c2a19f149a75?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=562&q=80",
+			"callStatus": "dialed",
+			"type": "video",
+			"Date&Time":"23 September,10:25 am"
+		},
+		{
+			"name": "Dominga",
+			"profile": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+			"callStatus": "missed",
+			"type": "video",
+			"Date&Time":"13 September,11:15 pm"
+		},
+		{
+			"name": "Phedra",
+			"profile": "https://images.unsplash.com/photo-1561828970-daff2303fe58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXw3NjA4Mjc3NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+			"callStatus": "received",
+			"type": "voice",
+			"Date&Time":"10 September,9:20 pm"
+		},
+		{
+			"name": "Mureil",
+			"profile": "https://images.unsplash.com/photo-1561828970-daff2303fe58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXw3NjA4Mjc3NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+			"callStatus": "missed",
+			"type": "voice",
+			"Date&Time":"05 September,8:05 am"
+		},
+		{
+			"name": "Tobe",
+			"profile": "https://images.unsplash.com/photo-1561828970-daff2303fe58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXw3NjA4Mjc3NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+			"callStatus": "received",
+			"type": "voice",
+			"Date&Time":"13 October,03:25 pm"
+		},
+		{
+			"name": "Raf",
+			"profile": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+			"callStatus": "missed",
+			"type": "video",
+			"Date&Time":"Just now"
+		},
+		{
+			"name": "Mariele",
+			"profile": "https://images.unsplash.com/photo-1485290334039-a3c69043e517?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d29tYW58ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+			"callStatus": "dialed",
+			"type": "voice",
+			"Date&Time":"Yesterday,05:15 am"
+		},
+		{
+			"name": "Ebonee",
+			"profile": "https://images.unsplash.com/photo-1561828970-daff2303fe58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8OXw3NjA4Mjc3NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+			"callStatus": "dialed",
+			"type": "video",
+			"Date&Time":"04 October,12:25 pm"
+		},
+		{
+			"name": "Catrina",
+			"profile": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+			"callStatus": "missed",
+			"type": "video",
+			"Date&Time":"Yesterday,03:10 am"
+		},
+		{
+			"name": "Edee",
+			"profile": "https://images.unsplash.com/photo-1578307362674-b209690512c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHw3NjA4Mjc3NHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+			"callStatus": "received",
+			"type": "video",
+			"Date&Time":"01 October,06:25 am"
+		}
+]

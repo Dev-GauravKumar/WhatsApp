@@ -1,0 +1,72 @@
+[
+		{
+			"username": "Arabel",
+			"Time": "25 minutes ago",
+			"NumberOfStatus": "2",
+			"isSeen": "seen",
+			"status": "https://images.unsplash.com/photo-1598719960386-cfc79fc57c62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGxhY2VzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Fredericka",
+			"Time": "Yesterday,11:20 am",
+			"NumberOfStatus": "1",
+			"isSeen": "seen",
+			"status": "https://images.unsplash.com/photo-1598719960386-cfc79fc57c62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGxhY2VzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Rhea",
+			"Time": "Today,10:25 am",
+			"NumberOfStatus": "10",
+			"isSeen": "not seen",
+			"status": "https://images.unsplash.com/photo-1646644189925-eb67de9605f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBsYWNlc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Ana",
+			"Time": "Yesterday,04:10 pm",
+			"NumberOfStatus": "2",
+			"isSeen": "not seen",
+			"status": "https://images.unsplash.com/photo-1519176407-e10ad52ab0a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGxhY2VzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Kerrin",
+			"Time": "Today,10:25 am",
+			"NumberOfStatus": "8",
+			"isSeen": "seen",
+			"status": "https://images.unsplash.com/photo-1519176407-e10ad52ab0a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGxhY2VzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Nicoli",
+			"Time": "Yesterday,04:10 pm",
+			"NumberOfStatus": "7",
+			"isSeen": "seen",
+			"status": "https://images.unsplash.com/photo-1598720235330-b6f8b5a23010?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGxhY2VzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Hollie",
+			"Time": "Yesterday,04:10 pm",
+			"NumberOfStatus": "7",
+			"isSeen": "not seen",
+			"status": "https://images.unsplash.com/photo-1598719960386-cfc79fc57c62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGxhY2VzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Henriette",
+			"Time": "25 minutes ago",
+			"NumberOfStatus": "7",
+			"isSeen": "not seen",
+			"status": "https://images.unsplash.com/photo-1598719960386-cfc79fc57c62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGxhY2VzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Sissy",
+			"Time": "Today,10:25 am",
+			"NumberOfStatus": "5",
+			"isSeen": "seen",
+			"status": "https://images.unsplash.com/photo-1646644189925-eb67de9605f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBsYWNlc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60"
+		},
+		{
+			"username": "Sheree",
+			"Time": "Today,10:25 am",
+			"NumberOfStatus": "2",
+			"isSeen": "not seen",
+			"status": "https://images.unsplash.com/photo-1646644189925-eb67de9605f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHBsYWNlc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60"
+		}
+]
